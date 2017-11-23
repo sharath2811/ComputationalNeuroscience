@@ -11,4 +11,4 @@ I tested this hypothesis using the concept behind Hebbian Learning. My input for
 
 The input randomly causes firing of some neurons in the network.  Everytime a neuron fires, all the connections to that neuron increases by a small step. After the simulation is run, a threshold was set for the strength of the connections and all the neurons falling below this threshold was removed from the network. 
 
-The output for the network is the connection strengths of the neurons. The resulting network is a network that represents learning for that particular stimulus. The heatmap below illustrates before and after the connections are removed. 
+The output for the network is the connection strengths of the neurons. The resulting network is a network that represents learning for that particular stimulus.
